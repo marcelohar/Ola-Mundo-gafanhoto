@@ -1,2 +1,2 @@
-# Ola Mundo gafanhoto
- Priimeiro repositorio do curso de Git e GitHub
+# Olá, Mundo! Gafanhoto.
+ Primeiro repositorio do curso de Git e GitHub
